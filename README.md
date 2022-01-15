@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/68d30613-a3ad-4161-a904-17d491351310/deploy-status)](https://app.netlify.com/sites/antoniokc/deploys)
 
-Notas sobre programas, programación y lo que programo.
+Notas sobre lo que hago.
 
 ## Sobre la plataforma
 
