@@ -9,23 +9,25 @@ tags: ["blog"]
 draft: false
 date: 2022-01-16T17:00:00-05:00
 ---
-> Cuéntame algo y lo olvidaré,\
-> muéstrámelo y podré recordarlo,\
-> pero involúcrame y lo comprenderé\
-> -- Proverbio chino
+Pienso que la programación es como un **arte** donde ponemos algo de **ciencia**.
 
-Podemos mirar sin ver. Podemos leer sin recordar. Podemos recordar sin comprender.
+Usar programas nos entrena en cierta **forma de pensar**. Quizás sin darnos cuenta nos acostumbramos a pensar en jerarquías, secuencias, requisitos, acciones y resultados.
 
-Pero **involucrarse** ayuda a comprender lo que vemos. Como cuando nos absorbe una novela, una película, o un juego.
+Usar la consola de comandos nos insinua la posibilidad de **comunicarnos con la computadora** de un modo más profundo.
 
-Una forma de involucrarse con algo es tratar de **expresarlo con tus propias palabras**.
+Crear programas nos entrena además en cierta **forma de resolver problemas**. Ejecutamos, decidimos, iteramos, declaramos, componemos.
 
-El ejercicio de poner **una frase que sintetice cada lección** ayuda a que al final tengamos un resúmen del curso.
+Podemos desarrollar cosas y técnicas muy interesantes.
 
-O también puede ser **una frase por cada idea**.
+Y podemos hacer anotaciones en el camino.
 
-Esos resúmenes pueden ayudarnos luego a recordar lo que estudiamos.
+Esas notas pueden ayudarnos luego a recordar lo que hicimos y por qué.
 
-O que alguien más pueda motivarse a estudiarlo también.
+O que alguien más pueda motivarse a hacerlo también.
+
+## Ideas
+- Cada artículo contiene ideas sobre algún tema. Puede ser un programa que uso, o que escribo, etc.
+- Las categorías son usadas para agrupar los artículos que corresponden a un mismo tema.
+- Los tags son usados para agrupar los artículos en torno a tópicos comunes.
 
 [Ir al blog](https://akc-programas.netlify.app)
