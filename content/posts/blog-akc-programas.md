@@ -25,9 +25,4 @@ Esas notas pueden ayudarnos luego a recordar lo que hicimos y por qué.
 
 O que alguien más pueda motivarse a hacerlo también.
 
-## Ideas
-- Cada artículo contiene ideas sobre algún tema. Puede ser un programa que uso, o que escribo, etc.
-- Las categorías son usadas para agrupar los artículos que corresponden a un mismo tema.
-- Los tags son usados para agrupar los artículos en torno a tópicos comunes.
-
 [Ir al blog](https://akc-programas.netlify.app)
