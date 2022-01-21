@@ -3,8 +3,8 @@ title: "AKC Lecturas"
 slug: "blog-akc-lecturas"
 summary: "Notas sobre lo que voy leyendo"
 categories: ["Blog"]
-featuredImage: "blog-akc-lecturas.jpg"
-images: ["blog-akc-lecturas.jpg"]
+featuredImage: "blog-akc-lecturas.png"
+images: ["blog-akc-lecturas.png"]
 tags: ["blog"]
 draft: false
 date: 2022-01-16T20:00:00-05:00
