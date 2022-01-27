@@ -7,7 +7,7 @@ featuredImage: "blog-akc-puroguramu.png"
 images: ["blog-akc-puroguramu.png"]
 tags: ["blog"]
 draft: false
-date: 2022-01-16T17:00:00-05:00
+date: 2022-01-27T23:54:00-05:00
 ---
 > Notas y reflexiones sobre programación y desarrollo.
 
@@ -27,6 +27,6 @@ Esas notas pueden ayudarnos luego a recordar lo que hicimos y por qué.
 
 O que alguien más pueda motivarse a hacerlo también.
 
-[Ir al blog](https://akc-puroguramu.netlify.app)
+[Ir a AKC Puroguramu](https://akc-puroguramu.netlify.app)
 
-[Ir al blog](https://akcdev.blogspot.com/)
+[Ir a Puroguramu](https://akcdev.blogspot.com/)
