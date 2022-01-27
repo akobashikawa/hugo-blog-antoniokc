@@ -6,7 +6,7 @@ categories: ["Blog"]
 featuredImage: "blog-akc-programas.png"
 images: ["blog-akc-programas.png"]
 tags: ["blog"]
-draft: false
+draft: true
 date: 2022-01-16T17:00:00-05:00
 ---
 Pienso que la programación es como un **arte** donde ponemos algo de **ciencia**.
