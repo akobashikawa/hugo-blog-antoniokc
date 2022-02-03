@@ -11,4 +11,4 @@ date: 2022-01-21T22:23:00-05:00
 ---
 > Notas acerca de emprendimiento.
 
-[Ir al blog](https://akc-emprende.netlify.app)
+[Ir al blog](https://emprende.akcademia.xyz)

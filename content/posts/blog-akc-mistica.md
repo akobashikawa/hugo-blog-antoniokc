@@ -13,4 +13,4 @@ date: 2022-01-16T18:00:00-05:00
 
 > Somos la manifestación de nuestra existencia en este plano material. Como la parte visible de un iceberg. Lo que en otros planos es pensamiento, sentimiento, energía, llega hasta aquí como materia. Nuestra mente imaginando llega a ser nuestra mano escribiendo. Y así como lo que escribimos puede inspirar las siguientes frases, lo que hacemos puede ir hacia el pensamiento, para que luego su manifestación llegue hasta acá. Ese sería el **Secreto**.
 
-[Ir al blog](https://akc-mistica.netlify.app)
+[Ir al blog](https://mistica.akcademia.xyz)

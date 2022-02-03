@@ -27,6 +27,6 @@ Esas notas pueden ayudarnos luego a recordar lo que hicimos y por qué.
 
 O que alguien más pueda motivarse a hacerlo también.
 
-[Ir a AKC Puroguramu](https://akc-puroguramu.netlify.app)
+[Ir a AKC Puroguramu](https://puroguramu.akcademia.xyz)
 
 [Ir a Puroguramu](https://akcdev.blogspot.com/)

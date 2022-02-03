@@ -11,4 +11,4 @@ date: 2022-01-21T22:32:00-05:00
 ---
 > Notas sobre lógica y pensamiento crítico.
 
-[Ir al blog](https://akc-arte.netlify.app)
+[Ir al blog](https://logicadora.akcademia.xyz)

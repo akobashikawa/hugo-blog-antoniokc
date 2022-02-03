@@ -1,10 +1,10 @@
 ---
-title: "AKC Estudios"
-slug: "blog-akc-estudios"
+title: "AKC Aprende"
+slug: "blog-akc-aprende"
 summary: "Notas sobre lo que voy estudiando"
 categories: ["Blog"]
-featuredImage: "blog-akc-estudios.png"
-images: ["blog-akc-estudios.png"]
+featuredImage: "blog-akc-aprende.png"
+images: ["blog-akc-aprende.png"]
 tags: ["blog"]
 draft: false
 date: 2022-01-16T19:00:00-05:00
@@ -28,4 +28,4 @@ Esos resúmenes pueden ayudarnos luego a recordar lo que estudiamos.
 
 O que alguien más pueda motivarse a estudiarlo también.
 
-[Ir al blog](https://akc-estudios.netlify.app)
+[Ir al blog](https://aprende.akcademia.xyz)

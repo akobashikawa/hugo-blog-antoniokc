@@ -28,4 +28,4 @@ Esos resúmenes pueden ayudarnos luego a recordar lo que leímos.
 
 O que alguien más pueda motivarse a leerlo también.
 
-[Ir al blog](https://akc-lecturas.netlify.app)
+[Ir al blog](https://lecturas.akcademia.xyz)
