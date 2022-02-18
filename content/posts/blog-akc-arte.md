@@ -3,8 +3,8 @@ title: "AKC Arte"
 slug: "blog-akc-arte"
 summary: "Notas sobre arte"
 categories: ["Blog"]
-featuredImage: "blog-akc-arte.png"
-images: ["blog-akc-arte.png"]
+featuredImage: "blog-akc-arte.jpg"
+images: ["blog-akc-arte.jpg"]
 tags: ["blog"]
 draft: false
 date: 2022-01-21T11:57:00-05:00
