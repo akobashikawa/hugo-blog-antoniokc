@@ -7,7 +7,7 @@ featuredImage: "blog-akc-puroguramu.png"
 images: ["blog-akc-puroguramu.png"]
 tags: ["blog"]
 draft: false
-date: 2022-01-27T23:54:00-05:00
+date: 2022-03-01T00:00:00-05:00
 ---
 > Notas y reflexiones sobre programación y desarrollo.
 

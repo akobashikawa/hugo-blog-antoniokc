@@ -7,7 +7,7 @@ featuredImage: "blog-akc-logicadora.png"
 images: ["blog-akc-logicadora.png"]
 tags: ["blog"]
 draft: false
-date: 2022-01-21T22:32:00-05:00
+date: 2022-03-02T23:42:00-05:00
 ---
 > Notas sobre lógica y pensamiento crítico.
 
