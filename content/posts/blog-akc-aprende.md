@@ -7,7 +7,7 @@ featuredImage: "blog-akc-aprende.png"
 images: ["blog-akc-aprende.png"]
 tags: ["blog"]
 draft: false
-date: 2022-05-23T20:08:00-05:00
+date: 2022-05-23T21:23:00-05:00
 ---
 > Cuéntame algo y lo olvidaré,\
 > muéstrámelo y podré recordarlo,\
