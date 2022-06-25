@@ -7,7 +7,7 @@ featuredImage: "blog-akc-puroguramu.png"
 images: ["blog-akc-puroguramu.png"]
 tags: ["blog"]
 draft: false
-date: 2022-03-28T10:03:00-05:00
+date: 2022-06-25T00:00:00-05:00
 ---
 Notas sobre programación, programar y los programas que uso.
 
