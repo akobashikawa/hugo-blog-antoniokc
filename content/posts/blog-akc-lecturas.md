@@ -16,4 +16,4 @@ date: 2022-01-28T10:01:00-05:00
 
 Notas sobre lo que voy leyendo.
 
-[Ir al blog](https://lecturas.akcademia.xyz)
+[Ir al blog](https://lecturas.akcstudio.online)

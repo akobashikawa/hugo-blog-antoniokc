@@ -28,4 +28,4 @@ Esos resúmenes pueden ayudarnos luego a recordar lo que estudiamos.
 
 O que alguien más pueda motivarse a estudiarlo también.
 
-[Ir al blog](https://aprende.akcademia.xyz)
+[Ir al blog](https://aprende.akcstudio.online)
