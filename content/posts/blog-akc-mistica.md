@@ -13,4 +13,4 @@ date: 2022-03-28T10:04:00-05:00
 
 Notas sobre yoga, meditación, tarot, espiritualidad.
 
-[Ir al blog](https://mistica.akcstudio.online)
+[Ir al blog](https://mistica.akcstudio.com)
